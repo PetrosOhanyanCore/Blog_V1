@@ -1,0 +1,39 @@
+DEBUG 2020-08-26 00:32:15,370 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2020-08-26 00:32:16,247 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2020-08-26 00:32:16,291 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Blog_Test_Petros_Ohanyan.Web.Host.Startup.Blog_Test_Petros_OhanyanWebHostModule, Blog_Test_Petros_Ohanyan.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-08-26 00:32:16,297 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Blog_Test_Petros_Ohanyan.Blog_Test_Petros_OhanyanWebCoreModule, Blog_Test_Petros_Ohanyan.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-08-26 00:32:16,299 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Blog_Test_Petros_Ohanyan.Blog_Test_Petros_OhanyanApplicationModule, Blog_Test_Petros_Ohanyan.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-08-26 00:32:16,299 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Blog_Test_Petros_Ohanyan.Blog_Test_Petros_OhanyanCoreModule, Blog_Test_Petros_Ohanyan.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-08-26 00:32:16,300 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-08-26 00:32:16,301 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-08-26 00:32:16,301 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-08-26 00:32:16,303 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-08-26 00:32:16,303 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Blog_Test_Petros_Ohanyan.EntityFrameworkCore.Blog_Test_Petros_OhanyanEntityFrameworkModule, Blog_Test_Petros_Ohanyan.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-08-26 00:32:16,304 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-08-26 00:32:16,305 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-08-26 00:32:16,306 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-08-26 00:32:16,307 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-08-26 00:32:16,307 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-08-26 00:32:16,308 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=5.10.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-08-26 00:32:16,316 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2020-08-26 00:32:16,990 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-08-26 00:32:16,991 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-08-26 00:32:16,991 [1    ] o.Configuration.LanguageManagementConfig - Converted Blog_Test_Petros_Ohanyan (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-08-26 00:32:16,991 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2020-08-26 00:32:18,941 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: Blog_Test_Petros_Ohanyan.EntityFrameworkCore.Blog_Test_Petros_OhanyanDbContext, Blog_Test_Petros_Ohanyan.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2020-08-26 00:32:22,623 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2020-08-26 00:32:22,805 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2020-08-26 00:32:22,850 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2020-08-26 00:32:22,884 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Blog_Test_Petros_Ohanyan
+DEBUG 2020-08-26 00:32:22,912 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2020-08-26 00:32:23,802 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Castle.Proxies.BackgroundJobManagerProxy
+DEBUG 2020-08-26 00:32:24,879 [1    ] , Culture=neutral, PublicKeyToken=null]] - Start background worker: Abp.Authorization.Users.UserTokenExpirationWorker`2[[Blog_Test_Petros_Ohanyan.MultiTenancy.Tenant, Blog_Test_Petros_Ohanyan.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[Blog_Test_Petros_Ohanyan.Authorization.Users.User, Blog_Test_Petros_Ohanyan.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+DEBUG 2020-08-26 00:32:25,112 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 8 classes define auto mapping attributes
+DEBUG 2020-08-26 00:32:25,112 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Blog_Test_Petros_Ohanyan.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2020-08-26 00:32:25,132 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Blog_Test_Petros_Ohanyan.Users.Dto.CreateUserDto
+DEBUG 2020-08-26 00:32:25,133 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Blog_Test_Petros_Ohanyan.Users.Dto.UserDto
+DEBUG 2020-08-26 00:32:25,135 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Blog_Test_Petros_Ohanyan.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2020-08-26 00:32:25,135 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Blog_Test_Petros_Ohanyan.Sessions.Dto.UserLoginInfoDto
+DEBUG 2020-08-26 00:32:25,135 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Blog_Test_Petros_Ohanyan.Roles.Dto.PermissionDto
+DEBUG 2020-08-26 00:32:25,136 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Blog_Test_Petros_Ohanyan.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2020-08-26 00:32:25,136 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Blog_Test_Petros_Ohanyan.MultiTenancy.Dto.TenantDto
